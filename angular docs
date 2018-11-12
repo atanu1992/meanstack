@@ -1,0 +1,13 @@
+1. To check node js install or not, check node -v
+2. If you are installing angular js for the first time ,then open terminal and type
+	--> " sudo npm install -g @angular/cli " (words inside double quotes)
+3. then inside html folder or www folder (first close the terminal and open new terminal from www or html folder) open terminal there and type --->
+	"sudo ng new myapp"  (here myapp is the name of project or name of folder just like calisto, so change myapp to any name you want)
+
+4. After finishing you will get a folder of that name that you created.
+
+
+
+***************** youtube video link ******************
+
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ
